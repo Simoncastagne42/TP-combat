@@ -30,6 +30,7 @@ $heroAvatar = htmlspecialchars(trim($_POST['hero_avatar']));
 $id= null;
 $imagePath = $heroAvatar;
 
+
 if (
     strlen($_POST['hero_name']) > 100 || $heroHp <= 0 || $heroAttack <= 0
     )

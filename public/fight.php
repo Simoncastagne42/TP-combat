@@ -26,7 +26,7 @@ $hero = $_SESSION['hero'];
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../public/assets/style/style.css">
     <script defer src="./assets/scripts/fight.js"></script>
-    <title>Document</title>
+    <title>Jeu combat</title>
 </head>
 
 <body>
